@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+}
+.titulo{
+    text-align: center;
+    size: 1000px;
+    color: rgb(153, 2, 2);
+}
+
+#banner-camisas{
+    width: 20%;
+}
