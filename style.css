@@ -55,7 +55,6 @@ body {
     text-align: center;
     
     color: #000000;
-    
 }
 
 .conteudo {
@@ -101,9 +100,33 @@ body {
     color: #fff2e7;
 }
 
+.conteudo-secundario{
+    padding-top: 25px;
+    border-top: 5px solid #000000;
+}
+
 .conteudo-secundario-escrito {
+    display: flex;
+    flex-direction: row;    padding-left: 245px;
+    width: 1245px;
+    height: 91px;
+    left: 364px;
+    top: 727px;
+    align-items: center;
+    gap: 55px;
+    padding-left: 245px;
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.conteudo-secundario-imagem{
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 55px;
+    mix-blend-mode: darken;
+
 }
